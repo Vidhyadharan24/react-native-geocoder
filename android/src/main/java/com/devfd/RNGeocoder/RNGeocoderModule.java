@@ -2,6 +2,7 @@ package com.devfd.RNGeocoder;
 
 import android.location.Address;
 import android.location.Geocoder;
+import java.util.Locale;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
